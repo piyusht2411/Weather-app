@@ -14,7 +14,7 @@
     A Weather Website
     <br />
   </p>
-  <a href="https://balar-weather-app.herokuapp.com/">View Demo</a>
+  <!-- <a href="https://balar-weather-app.herokuapp.com/">View Demo</a> -->
 </div>
 
 
@@ -42,9 +42,9 @@ It is an online live weather checking webiste , you can check any city live weat
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
-## Contact
+<!-- ## Contact
 
-Your Name - Piyush Thakur - piyushthakur241199@gmail.com
+Your Name - Piyush Thakur - piyushthakur241199@gmail.com -->
 
 
 

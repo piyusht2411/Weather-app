@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	{{>headerlinks}}
+	
+	<title>Weather Application</title>
+</head>
+<body>
+	<header>
+		{{>header}}
+	</header>
+	<section>
+		<form id="form">
+			<div class="form-group">
+				<input type="text" name="searchInput" placeholder="Enter City Name" id="searchInput">
+				<span class="error"></span>
+				<input type="submit" name="searchButton" id="searchButton" value="Search">
+			</div>
+		</form>
+
+		<div class="content" id="content">
+			
+		</div>
+	</section>
+	<footer>
+		{{>footer}}
+	</footer>
+
+	<script type="text/javascript" src="public/js/main.js"></script>
+</body>
+</html>
